@@ -1,0 +1,12 @@
+{
+  "name": "nextbus-helper",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pthurlow/nextbus-helper.git",
+  "author": "pthurlow",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "nextbus": "^0.0.7"
+  }
+}
